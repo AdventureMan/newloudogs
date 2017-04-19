@@ -1,0 +1,30 @@
+.top {
+     height: 60vh;
+    /*background-color: #ff2828;*/
+    background-image: url("../images/loudog-icon.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.middle{
+    height:10%;
+    text-align: center;
+}
+
+footer {
+    bottom: 5px;
+    position: absolute;
+    width: 100%;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: #ff2828;
+}
+
+html, body{
+    height: 100%;
+}
